@@ -1,7 +1,7 @@
 
                                  𝐀 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭.
 
-Elite Ledgers - Student Community Platform
+Elite Ledgers - Student Community Platform.
 Elite Ledgers is a clean, professional multi-page website designed for software engineering students to collaborate and share knowledge.
 
 Tech Stack & Features
